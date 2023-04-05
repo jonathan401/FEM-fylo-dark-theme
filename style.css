@@ -80,7 +80,7 @@ a:focus {
 }
 
 p {
-  font-size: clamp(0.85rem, 3vw, 1rem);
+  font-size: clamp(0.87rem, 3vw, 1rem);
   line-height: 1.4;
 }
 
@@ -136,7 +136,7 @@ button,
   text-decoration: none;
   display: inline-block;
   /* TODO: make this responsive */
-  font-size: clamp(0.8rem, 3vw, 0.97rem);
+  font-size: clamp(0.87rem, 3vw, 0.97rem);
   font-weight: 700;
   font-family: "Raleway", sans-serif;
   border-radius: var(--border-lg);
